@@ -1,4 +1,7 @@
 ## Hola!! Soy Juan Antonio Martín 🤙
+## Sobre mi
+## Mi Stack 👨🏽‍💻
+## Proyectos
 
 <!--
 **MartinWebDev95/MartinWebDev95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

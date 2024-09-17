@@ -4,7 +4,8 @@
 ## Sobre mi 😊
   - 👉 [Visita mi portfolio](https://portfolio-martinwebdev95.vercel.app/ "Portfolio")
   - 👉 
-## Mi stack 👨🏽‍💻
+## Lenguajes y Frameworks que utilizo 👨🏽‍💻
+
 ## Proyectos 💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinWebDev95)](https://github.com/MartinWebDev95/github-readme-stats)

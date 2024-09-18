@@ -16,7 +16,7 @@
 <tr>
   <td width="50%">
     <div align="center">
-      <img src="./github-header-image.png" width="100%" alt="Banner">
+      <img src="./disneyPlusClone.png" width="100%" alt="Disney Plus Clone">
     </div>
     <div width="100%">
       <a href="https://github.com/MartinWebDev95/DisneyPlusClone" align="left">
@@ -31,7 +31,7 @@
   </td>
   <td width="50%">
     <div align="center">
-      <img src="./github-header-image.png" width="100%" alt="Banner">
+      <img src="./audiophileEcommerce.png" width="100%" alt="Audiophile Ecommerce">
     </div>
     <div width="100%">
       <a href="https://github.com/MartinWebDev95/AudiophileEcommerceAstro" align="right">
@@ -48,7 +48,7 @@
   <tr>
     <td width="50%">
     <div align="center">
-      <img src="./github-header-image.png" width="100%" alt="Banner">
+      <img src="./kanban.png" width="100%" alt="Kanban">
     </div>
     <div width="100%">
       <a href="https://github.com/MartinWebDev95/Kanban" align="left">
@@ -63,7 +63,7 @@
   </td>
     <td width="50%">
     <div align="center">
-      <img src="./github-header-image.png" width="100%" alt="Banner">
+      <img src="./theFootballHub.png" width="100%" alt="The Football Hub">
     </div>
     <div width="100%">
       <a href="https://github.com/MartinWebDev95/TheFootballHub" align="right">
@@ -84,18 +84,3 @@
 
 <a href="http://www.github.com/MartinWebDev95">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinWebDev95&stroke=ffffff&background=000000&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<!--
-**MartinWebDev95/MartinWebDev95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

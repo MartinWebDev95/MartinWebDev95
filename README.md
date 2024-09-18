@@ -2,7 +2,7 @@
 <img src="./github-header-image.png" width="100%" alt="Banner">
 
 ## Sobre mi 😊
-  - 👉 [Visita mi portfolio](https://portfolio-martinwebdev95.vercel.app/ "Portfolio")
+[![Portfolio](https://img.shields.io/badge/Visita%20Mi%20Portfolio-E96C0E?style=for-the-badge)](https://portfolio-martinwebdev95.vercel.app/)
 
 ## Lenguajes y Frameworks que utilizo 👨🏽‍💻
 <p align="left">
@@ -24,7 +24,9 @@
   </a>
     </div>
     <div align="center">
-      <a href="https://disneyplus-clone-app.vercel.app" target="_blank" rel="noreferrer noopener">Visitar proyecto</a>
+      <a href="https://disneyplus-clone-app.vercel.app" target="_blank" rel="noreferrer noopener">
+        <img src="https://img.shields.io/badge/Ver%20Web-E96C0E?style=for-the-badge">
+      </a>
     </div>
   </td>
   <td width="50%">
@@ -37,7 +39,9 @@
   </a>
     </div>
     <div align="center">
-      <a href="https://audiophile-ecommerce-astro.vercel.app/" target="_blank" rel="noreferrer noopener">Visitar proyecto</a>
+      <a href="https://audiophile-ecommerce-astro.vercel.app/" target="_blank" rel="noreferrer noopener">
+        <img src="https://img.shields.io/badge/Ver%20Web-E96C0E?style=for-the-badge">
+      </a>
     </div>
   </td>
 </tr>
@@ -52,7 +56,9 @@
   </a>
     </div>
     <div align="center">
-      <a href="https://kanban-martinwebdev95.vercel.app/login" target="_blank" rel="noreferrer noopener">Visitar proyecto</a>
+      <a href="https://kanban-martinwebdev95.vercel.app/login" target="_blank" rel="noreferrer noopener">
+        <img src="https://img.shields.io/badge/Ver%20Web-E96C0E?style=for-the-badge">
+      </a>
     </div>
   </td>
     <td width="50%">
@@ -65,7 +71,9 @@
   </a>
     </div>
     <div align="center">
-      <a href="https://the-football-hub.vercel.app/" target="_blank" rel="noreferrer noopener">Visitar proyecto</a>
+      <a href="https://the-football-hub.vercel.app/" target="_blank" rel="noreferrer noopener">
+        <img src="https://img.shields.io/badge/Ver%20Web-E96C0E?style=for-the-badge">
+      </a>
     </div>
   </td>
   </tr>

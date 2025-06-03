@@ -81,15 +81,15 @@
   <tr>
     <td width="50%">
       <div align="center">
-        <img src="./kanban.png" width="100%" alt="Kanban">
+        <img src="./financeApp.png" width="100%" alt="Finance App">
       </div>
       <div width="100%">
-        <a href="https://github.com/MartinWebDev95/Kanban" align="left">
-      <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinWebDev95&repo=Kanban&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" />
+        <a href="https://github.com/MartinWebDev95/FinanceApp" align="left">
+      <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinWebDev95&repo=FinanceApp&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en" />
     </a>
       </div>
       <div align="center">
-        <a href="https://kanban-martinwebdev95.vercel.app/login" target="_blank" rel="noreferrer noopener">
+        <a href="https://finance-app-nine-virid.vercel.app/" target="_blank" rel="noreferrer noopener">
           <img src="https://img.shields.io/badge/Ver%20Web-E96C0E?style=for-the-badge">
         </a>
       </div>

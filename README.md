@@ -57,7 +57,7 @@
   </a>
     </div>
     <div align="center">
-      <a href="https://kanban-martinwebdev95.vercel.app/login" target="_blank" rel="noreferrer noopener">
+      <a href="https://kanban-eight-fawn.vercel.app/" target="_blank" rel="noreferrer noopener">
         <img src="https://img.shields.io/badge/Ver%20Web-E96C0E?style=for-the-badge">
       </a>
     </div>

@@ -49,7 +49,7 @@
   <tr>
     <td width="50%">
     <div align="center">
-      <img src="./kanban.png" width="100%" alt="Kanban">
+      <img src="./kanbanMainPage.png" width="100%" alt="Kanban">
     </div>
     <div width="100%">
       <a href="https://github.com/MartinWebDev95/Kanban" align="left">

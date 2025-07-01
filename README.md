@@ -81,7 +81,7 @@
   <tr>
     <td width="50%">
       <div align="center">
-        <img src="./financeApp.png" width="100%" alt="Finance App">
+        <img src="./financeAppMainPage.png" width="100%" alt="Finance App">
       </div>
       <div width="100%">
         <a href="https://github.com/MartinWebDev95/FinanceApp" align="left">

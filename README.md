@@ -32,7 +32,7 @@
   </td>
   <td width="50%">
     <div align="center">
-      <img src="./audiophileEcommerce.png" width="100%" alt="Audiophile Ecommerce">
+      <img src="./audiophileMainPage.png" width="100%" alt="Audiophile Ecommerce">
     </div>
     <div width="100%">
       <a href="https://github.com/MartinWebDev95/AudiophileEcommerceAstro" align="right">

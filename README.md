@@ -64,7 +64,7 @@
   </td>
     <td width="50%">
     <div align="center">
-      <img src="./basicDept.png" width="100%" alt="BASIC/DEPT">
+      <img src="./heroSection.png" width="100%" alt="BASIC/DEPT">
     </div>
     <div width="100%">
       <a href="https://github.com/MartinWebDev95/BasicDept" align="right">
